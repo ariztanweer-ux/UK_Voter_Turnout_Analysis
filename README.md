@@ -47,15 +47,4 @@ This project is built entirely in **Python**, using **Pandas** for data manipula
 
 
 
-**Future Scope / Next Steps**
-•Expand the analysis by incorporating additional demographic variables such as education level, income groups, and regional differences to better understand voting behaviour patterns.
 
-•Apply predictive modelling techniques to forecast future voter turnout trends across different age groups.
-
-•Analyse the impact of external factors such as political campaigns, social media engagement, and major national events on voter participation.
-
-•Perform constituency-level analysis to identify geographic variations in turnout behaviour.
-
-•Explore time-series modelling to examine long-term turnout trends and generational participation shifts.
-
-•Integrate survey or behavioural data (if available) to better understand motivations behind voter participation.
