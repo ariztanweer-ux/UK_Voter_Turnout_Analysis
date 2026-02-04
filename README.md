@@ -44,20 +44,18 @@ This project is built entirely in **Python**, using **Pandas** for data manipula
 - **Matplotlib** – visualization
 
 
-**Key Insights**
-•Voter turnout increases consistently with age, with older voters showing the highest participation rates.
-•Young voters show the lowest turnout and the highest variability between elections, making them harder to mobilize but highly influential.
-•Middle-aged voters provide stable and predictable participation across elections, forming the backbone of voter turnout.
-•Older voters demonstrate strong voting habits, contributing significantly to overall turnout totals.
-•Turnout differences across age groups highlight participation inequality, where election outcomes may reflect priorities of older populations more strongly.
-•Small increases in youth voter participation could meaningfully improve overall turnout due to the size of the younger population.
-•Long-term patterns suggest that declining youth engagement could impact future democratic participation if not addressed.
+
 
 
 **Future Scope / Next Steps**
 •Expand the analysis by incorporating additional demographic variables such as education level, income groups, and regional differences to better understand voting behaviour patterns.
+
 •Apply predictive modelling techniques to forecast future voter turnout trends across different age groups.
+
 •Analyse the impact of external factors such as political campaigns, social media engagement, and major national events on voter participation.
+
 •Perform constituency-level analysis to identify geographic variations in turnout behaviour.
+
 •Explore time-series modelling to examine long-term turnout trends and generational participation shifts.
+
 •Integrate survey or behavioural data (if available) to better understand motivations behind voter participation.
